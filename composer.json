@@ -41,7 +41,7 @@
     "wpackagist-plugin/webp-express": "^0.25.8",
     "wpackagist-plugin/woocommerce": "^8.5",
     "wpackagist-plugin/wordpress-seo": "^21.7",
-    "wpengine/advanced-custom-fields-pro": "^6.2",
+    "wpengine/advanced-custom-fields-pro": "^6.2"
   },
   "extra": {
     "installer-paths": {
